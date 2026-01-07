@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Andrew
-😄 Pronouns: They/Them
-👀 I’m interested in programming languages, documentation, iOS apps, and palaeobiology.
-🌱 I’m currently interested in react-native development.
-📫 You can find me on <p>
+<p>😄 Pronouns: They/Them</p>
+<p>👀 I’m interested in programming languages, documentation, iOS apps, and palaeobiology.</p>
+<p>🌱 I’m currently interested in react-native development.</p>
+<p>📫 You can find me on </p>
   <a href="[https://www.linkedin.com/[removed]](https://www.linkedin.com/in/andrew-hall-1b54921a2/)" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn </img>
   </a> &nbsp; 
