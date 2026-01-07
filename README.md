@@ -14,13 +14,13 @@
 </p>My main project is GeoFossil on the iOS App Store, soon to be released on the Android App Store:</p>
 <p style="display: flex; gap: 10px;">
   <a href="https://apps.apple.com/gb/app/geofossil/id6746865698">
-    <img src="assets/geofossil-1.png" width="180" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+    <img src="assets/geofossil-1.webp" width="180" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
   </a>
   <a href="https://apps.apple.com/gb/app/geofossil/id6746865698">
-    <img src="assets/geofossil-2.png" width="180" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+    <img src="assets/geofossil-2.webp" width="180" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
   </a>
   <a href="https://apps.apple.com/gb/app/geofossil/id6746865698">
-    <img src="assets/geofossil-3.png" width="180" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+    <img src="assets/geofossil-3.webp" width="180" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
   </a>
 </p>
 
