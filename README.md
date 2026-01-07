@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Andrew
+😄 Pronouns: They/Them
+👀 I’m interested in programming languages, documentation, iOS apps, and palaeobiology.
+🌱 I’m currently learning everything I can basically.
+📫 You can find me on <p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 <!--
 **AndrewH537/AndrewH537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
