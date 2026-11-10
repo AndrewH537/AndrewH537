@@ -4,7 +4,7 @@
 <p>🌱 I’m currently interested in react-native development.</p>
 <p style="display: flex; align-items: center; gap: 6px;">
   📫 You can find me on
-  <a href="https://www.linkedin.com/in/andrew-hall-1b54921a2/" rel="nofollow noreferrer" style="display: flex; align-items: center; gap: 4px;">
+  <a href="https://www.linkedin.com/in/andrew-hall-94181744a/" rel="nofollow noreferrer" style="display: flex; align-items: center; gap: 4px;">
     <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" />
     LinkedIn
   </a>
